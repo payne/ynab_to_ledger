@@ -42,3 +42,6 @@ You can see more reports at http://ledger-cli.org/3.0/doc/ledger3.html#Building-
 [hledger](http://hledger.org/) (a port of Ledger) provides some reporting that Ledger does not. For example, you can view a monthly register rolled up by category:
 
 `hledger register -f ynab_ledger.dat --monthly --depth 1`
+
+### Background 
+Google found this neato blog post https://www.pgrs.net/2016/10/20/exporting-ynab-to-ledger/ which pointed to the repo.  
